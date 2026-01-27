@@ -49,19 +49,19 @@ It exists only to:
 > Screenshots are provided for demonstration purposes only.
 
 ### 🔐 Login
-![Login Screen](Screenshots/login.png)
+![Login Screen](Screenshots/Login.png)
 
 ### 📊 Dashboard
-![Dashboard]Sscreenshots/dashboard.png)
+![Dashboard]Screenshots/Dashboard.png)
 
 ### 👥 Students
-![Students]Sscreenshots/Students.png)
+![Students]Screenshots/Students.png)
 
 ### 🧾 Attendance
 ![Attendance](Screenshots/attendance.png)
 
 ### 📑 Reports
-![Reports](Screenshots/reports.png)
+![Reports](Screenshots/Reports.png)
 
 
 ---
