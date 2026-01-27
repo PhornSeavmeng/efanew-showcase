@@ -52,7 +52,7 @@ It exists only to:
 ![Login Screen](Screenshots/Login.png)
 
 ### 📊 Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### 👥 Students
 ![Students](Screenshots/Students.png)
@@ -61,7 +61,7 @@ It exists only to:
 ![Attendance](Screenshots/attendance.png)
 
 ### 📑 Reports
-![Reports](Screenshots/Reports.png)
+![Reports](Screenshots/Report.png)
 
 
 ---
