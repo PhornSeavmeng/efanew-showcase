@@ -46,12 +46,23 @@ It exists only to:
 
 ## 🖼️ Screenshots
 
-> (Screenshots added for demonstration purposes)
-/screenshots
-├─ login.png
-├─ dashboard.png
-├─ attendance.png
-├─ reports.png
+> Screenshots are provided for demonstration purposes only.
+
+### 🔐 Login
+![Login Screen](Screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard]Sscreenshots/dashboard.png)
+
+### 👥 Students
+![Students]Sscreenshots/Students.png)
+
+### 🧾 Attendance
+![Attendance](Screenshots/attendance.png)
+
+### 📑 Reports
+![Reports](Screenshots/reports.png)
+
 
 ---
 
