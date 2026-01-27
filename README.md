@@ -52,10 +52,10 @@ It exists only to:
 ![Login Screen](Screenshots/Login.png)
 
 ### 📊 Dashboard
-![Dashboard]Screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### 👥 Students
-![Students]Screenshots/Students.png)
+![Students](Screenshots/Students.png)
 
 ### 🧾 Attendance
 ![Attendance](Screenshots/attendance.png)
