@@ -141,3 +141,12 @@ Email: **parikshitgorain@yahoo.com**
 **Parikshit Gorain**
 
 Unauthorized copying, redistribution, or misuse is strictly prohibited.
+
+## ❤️ Support the Work
+This project is actively maintained and continuously improved.
+Sponsorship supports development time, demo infrastructure, and documentation.
+
+## 🤖 Building with AI
+This system is built and improved using AI-assisted workflows, automation, and monitoring tools.
+Development is ongoing.
+
